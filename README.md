@@ -10,7 +10,7 @@
 
 ```
 6) Rode os seguintes comandos:
-```php
+
 php artisan migrate
 ```
 ```php
